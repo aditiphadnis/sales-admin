@@ -1,0 +1,6 @@
+langchain 
+playwright 
+langchain_community 
+langchain_openai 
+langgraph
+langchainhub
